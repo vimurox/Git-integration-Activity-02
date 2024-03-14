@@ -15,7 +15,7 @@ public static void main(String args[]){
     Inky ponky = new Inky(pinky);
 
     String blinky = "Pinky";
-    String pinky = "Monkey";
+    String rinky = "Monkey";
 
     Inky ponky2 = new Inky(pinky,blinky,rinky);
 }
